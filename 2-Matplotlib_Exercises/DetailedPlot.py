@@ -8,7 +8,7 @@ plt.xticks(range(-20, 21))
 plt.yticks(np.arange(-1, 1, 0.1))
 
 
-x = np.linspace(-10, 10, 100) #[-10, 10] aralığında 100 nokta verir
+x = np.linspace(-10, 10, 100) 
 y = np.sin(x)
 z = np.cos(x)
 
