@@ -1,0 +1,6 @@
+import pandas as pd
+import numpy as np
+
+a = np.random.randint(1, 10, (20, 10))
+df = pd.DataFrame(a)
+print(df.mode())
