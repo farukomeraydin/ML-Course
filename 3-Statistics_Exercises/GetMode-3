@@ -1,0 +1,7 @@
+import scipy.stats
+import numpy as np
+
+a = np.random.randint(1, 10, (20, 10))
+mr = scipy.stats.mode(a, axis=0) #mode of each column
+print(mr.mode)
+print(mr.count)
