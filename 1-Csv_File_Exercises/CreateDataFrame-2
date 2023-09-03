@@ -1,0 +1,7 @@
+import pandas as pd
+import numpy as np
+
+d = {'Adı Soyadı': np.array(['Ali Serçe', 'Veli Duran', 'Necati Ergin'], dtype='str'), 'Kilo': np.array([57.3, 84.6, 90.2], dtype='float32'),
+'Boy':np.array([172, 187, 165], dtype='int32')}
+df = pd.DataFrame(d)
+print(df)
