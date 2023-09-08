@@ -1,0 +1,4 @@
+import statistics
+
+print(statistics.pvariance([1, 2, 3, 4, 5]))
+print(statistics.variance([1, 2, 3, 4, 5]))
