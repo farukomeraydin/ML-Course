@@ -4,3 +4,5 @@ Diabetes (diabetes.csv) ----> https://www.kaggle.com/datasets/uciml/pima-indians
 
 Auto mpg dataset -> https://archive.ics.uci.edu/dataset/9/auto+mpg
 
+Boston housing prices -> https://www.kaggle.com/datasets/vikrishnan/boston-house-prices
+
