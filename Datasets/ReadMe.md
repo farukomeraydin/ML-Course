@@ -6,3 +6,4 @@ Auto mpg dataset -> https://archive.ics.uci.edu/dataset/9/auto+mpg
 
 Boston housing prices -> https://www.kaggle.com/datasets/vikrishnan/boston-house-prices
 
+Iris dataset-> https://www.kaggle.com/datasets/uciml/iris?resource=download
