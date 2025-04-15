@@ -23,7 +23,7 @@ dataset_y = np.zeros(len(df), dtype='int8')
 dataset_y[df['sentiment'] == 'positive'] = 1
 
 """
-VEYA
+VEYA 
 from sklearn.preprocessing import LabelEncoder
 
 le = LabelEncoder()
