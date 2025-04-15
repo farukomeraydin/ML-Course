@@ -25,7 +25,6 @@ df = pd.read_csv('IMDB Dataset.csv', converters={0: wc}) #Dosyayı okurken kelim
 
 word_dict = wc.get_word_dict()
 
-
 dataset_x = np.zeros((df.shape[0], len(word_dict)), dtype='uint8')
 
 for row, words in enumerate(df['review']):
