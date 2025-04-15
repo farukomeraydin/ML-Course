@@ -9,3 +9,5 @@ Boston housing prices -> https://www.kaggle.com/datasets/vikrishnan/boston-house
 Iris dataset-> https://www.kaggle.com/datasets/uciml/iris?resource=download
 
 Imdb dataset (Sentiment Analysis) -> https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+Reuters dataset -> https://www.kaggle.com/datasets/nltkdata/reuters
